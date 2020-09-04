@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h\ c
+comment0.target=GameObj(int,\ int,\ int,\ int,\ javafx.scene.paint.Color)
+comment1.params=units
+comment1.target=void\ moveX(int)
+comment2.params=units
+comment2.target=void\ moveY(int)
+comment3.params=
+comment3.target=void\ changeDirectionX()
+comment4.params=
+comment4.target=void\ changeDirectionY()
+comment5.params=obj
+comment5.target=boolean\ hitBy(GameObj)
+numComments=6
